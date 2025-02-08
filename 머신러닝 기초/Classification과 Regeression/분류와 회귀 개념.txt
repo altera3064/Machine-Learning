@@ -1,0 +1,17 @@
+Classificaiton과 Regression의 차이
+
+예제로 이해하면 쉽다
+
+Classification(분류)
+
+문제: 사진 속 동물이 고양이인지, 개인지 구분
+
+출력값: 고양이 또는 개
+
+Regression(회귀)
+
+문제: 사진 속 고양이의 몸무게를 예측 
+
+출력값: 4.5kg
+
+*핵심요약 이미지를 참조
